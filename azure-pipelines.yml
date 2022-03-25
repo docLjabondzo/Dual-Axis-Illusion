@@ -15,6 +15,7 @@ steps:
     checkLatest: true
 
 - script: npm install
+    echo Uj!
 
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
