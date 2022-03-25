@@ -14,6 +14,8 @@ steps:
     versionSpec: '6.x'
     checkLatest: true
 
+- script: npm install
+
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 
