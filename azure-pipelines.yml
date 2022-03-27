@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: default
+pool: Drljabondzo komp
 
 steps:
 - task: NodeTool@0
